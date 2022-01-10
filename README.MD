@@ -15,21 +15,15 @@
 <br>
 
 </div>
-
-<div align="center">
-
-<br>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=anasspinto&theme=github_dark&show_icons=true" alt="anasspinto's Github Stats">
-  <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasspinto&layout=compact&theme=github_dark" alt="Most Used Languages">
-  
-<br>
- 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasspinto&layout=compact&theme=github_dark" alt="Most Used Languages"> 
+<div align="center" width="300">
   
 ## 🔧 Languages and Tools
   
 <br>
+</div>
   
 ![](https://img.shields.io/badge/OS-Ubuntu%20Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
  ![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=Sublime&logoColor=white&color=blue) 
