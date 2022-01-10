@@ -25,8 +25,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasspinto&layout=compact&theme=github_dark" alt="Most Used Languages">
   
 <br>
-  
-<div align="center" width="300">
+ 
   
 ## 🔧 Languages and Tools
   
