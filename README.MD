@@ -13,7 +13,7 @@
 ## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
 <br>
-
+:computer: MSc in Informatics and Computing Engineering (year 2/5)
 </div>
   
 <img align="" src="https://github-readme-stats.vercel.app/api?username=anasspinto&theme=github_dark&show_icons=true" alt="anasspinto's Github Stats">
