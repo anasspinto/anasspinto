@@ -16,5 +16,5 @@ Hello there!
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="anasspinto's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasspinto&theme=dark&show_icons=true" alt="anasspinto's Github Stats">
 </br>
