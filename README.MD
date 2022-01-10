@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/Pg7x6F2.gif" alt="Welcome!" width="300"/>
+<img src="https://i.imgur.com/Pg7x6F2.gif" alt="Welcome!" width="600"/>
 
 </div>
 
