@@ -24,7 +24,7 @@
 ## 🔧 Languages and Tools
   
 <br>
-<<div align="center" width="300">
+<div align="center" width="300">
   
 ![](https://img.shields.io/badge/OS-Ubuntu%20Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
  ![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=Sublime&logoColor=white&color=blue) 
