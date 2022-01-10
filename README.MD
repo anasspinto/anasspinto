@@ -30,6 +30,7 @@
  ![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=Sublime&logoColor=white&color=blue) 
  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=blue) 
  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue) 
+ ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue) 
  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=blue) 
  ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=blue) 
  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)
