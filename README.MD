@@ -1,30 +1,13 @@
-<div align="center" width="600">
-
-<img src="https://i.imgur.com/Pg7x6F2.gif" alt="Welcome!" width="600"/>
-
-</div>
-
-<div align="center">
-  
-<br>
-
 <div align="center" width="300">
   
 ## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 :computer: MSc in Informatics and Computing Engineering (year 2/5)
   <br>
-</div>
-  
-<img align="" src="https://github-readme-stats.vercel.app/api?username=anasspinto&theme=github_dark&show_icons=true" alt="anasspinto's Github Stats"/>
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasspinto&layout=compact&langs_count=7&theme=github_dark" alt="Most Used Languages" /> 
 
-  
-  
 ## 🔧 Languages and Tools
   
 <br>
-<div align="center" width="300">
  
  ![](https://img.shields.io/badge/OS-Ubuntu%20Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
  ![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=Sublime&logoColor=white&color=blue) 
@@ -38,5 +21,5 @@
  ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
  ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=blue)
   
- </div>
+</div>
 <br>
